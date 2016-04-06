@@ -35,7 +35,10 @@ def cube(num1):
 
 
 def power(num1, num2):
+    """Raises the first integer to the power of the second integer and returns the value."""
+
     return num1 ** num2
 
+
 def mod(num1, num2):
-    pass
+    return num1 % num2
