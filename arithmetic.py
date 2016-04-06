@@ -15,10 +15,11 @@ def divide(num1, num2):
     return num1 / num2
 
 def square(num1):
+    """Returns the square of the input"""
     return num1 * num1
 
 def cube(num1):
-    pass
+    return num1 * num1 * num1
 
 def power(num1, num2):
     pass
